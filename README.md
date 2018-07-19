@@ -1,5 +1,3 @@
-# pal-tracker-distributed
-
 <h1 align="center">
 pal-tracker-distributed
 <br>
