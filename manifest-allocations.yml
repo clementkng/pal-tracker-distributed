@@ -8,3 +8,4 @@ applications:
   services:
   - tracker-allocations-database
   - pal-tracker-distributed
+  - tracker-circuit-breaker-dashboard
