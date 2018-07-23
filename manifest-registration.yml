@@ -8,4 +8,3 @@ applications:
   services:
   - tracker-registration-database
   - pal-tracker-distributed
-  - tracker-config-server

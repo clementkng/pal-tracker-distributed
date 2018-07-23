@@ -9,4 +9,3 @@ applications:
   - tracker-allocations-database
   - pal-tracker-distributed
   - tracker-circuit-breaker-dashboard
-  - tracker-config-server
